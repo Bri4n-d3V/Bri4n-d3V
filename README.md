@@ -1,8 +1,8 @@
 ## 👋😊 Olá! Me chamo Brian Caetano e sou estudante de programação!
 <div align="center">
   <a href="https://github.com/Bri4n-d3V">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bri4n-d3V&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bri4n-d3V&layout=compact&langs_count=4&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Bri4n-d3V&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bri4n-d3V&layout=compact&langs_count=4&theme=tokyonight"/>
 </div>
   
 ##
