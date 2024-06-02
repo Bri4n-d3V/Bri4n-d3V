@@ -7,7 +7,7 @@
   
 ##
   
-### 👨‍💻 Tecnologias aprendidas: 
+### 👨‍💻 Stack: 
 <div id="fronticons" style="display: inline_block"><br>
   <img align="center" alt="Brian-unix" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg">
   <img align="center" alt="Brian-bash" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
