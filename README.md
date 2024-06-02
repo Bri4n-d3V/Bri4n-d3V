@@ -1,4 +1,4 @@
-## 👋😊 Olá! Me chamo Brian Caetano e sou estudante de programação!
+## 👋😊 Olá! Me chamo Brian Caetano e desenvolvedor fullstack!
 <div align="center">
   <a href="https://github.com/Bri4n-d3V">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Bri4n-d3V&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -32,8 +32,8 @@
   <img align="center" alt="Brian-ts" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Brian-mongodb" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Brian-python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Brian-python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
 </div>
-  <img align="right" alt="Brian-pic" height="150" style="border-radius:75px;" src="https://share-cdn.picrew.me/shareImg/org/202203/338224_MhejSBbG.png">
   
 ## 
   
