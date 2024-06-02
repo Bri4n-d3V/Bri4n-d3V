@@ -1,4 +1,4 @@
-## 👋😊 Olá! Me chamo Brian Caetano e desenvolvedor fullstack!
+## 👋😊 Olá! Me chamo Brian Caetano e atuo como desenvolvedor fullstack!
 <div align="center">
   <a href="https://github.com/Bri4n-d3V">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Bri4n-d3V&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
